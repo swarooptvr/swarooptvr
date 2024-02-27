@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @swarooptvr
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning .net tech
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... swarooptvr@gmail.com
+# Travel App
 
-<!---
-swarooptvr/swarooptvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
